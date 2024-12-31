@@ -4,6 +4,6 @@ The website will consist of a main index page which will have links to a few rec
 
 ## Skill demonstrated
 
--> HTML Boilerplate structuring
--> header, img, and paragraph tags
--> ordered and unordered lists
+-> HTML Boilerplate structuring <br />
+-> header, img, and paragraph tags <br />
+-> ordered and unordered lists <br />
